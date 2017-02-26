@@ -9,7 +9,6 @@
 #import "FreeHandDrawingContainer.h"
 #import "DrawingView.h"
 #import "ToolBarView.h"
-
 #import "UIColor+IH.h"
 
 @interface FreeHandDrawingContainer()<DrawingViewProtocol, ToolBarViewDelegate>
