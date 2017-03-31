@@ -14,5 +14,3 @@ FreeHandDrawing
 </p>
 <br>
 <br>
-
-![input](https://cloud.githubusercontent.com/assets/13973975/24541844/d5a11878-162b-11e7-8b4c-2b94f5b62c8d.gif)
